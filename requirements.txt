@@ -1,0 +1,5 @@
+pandas~=1.2.5
+pycountry~=20.7.3
+uuid~=1.30
+Faker~=8.8.2
+google-cloud-pubsub
